@@ -8,6 +8,7 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
+      <script src="https://smtpjs.com/v3/smtp.js"></script>
     </Html>
   )
 }
